@@ -7,6 +7,9 @@
 ### AWS Budgets
 With AWS Budgets, set custom budgets to track your costs and usage, and quickly respond to alerts you receive from email or SNS notifications if you exceed your limit.
 
+![image](https://github.com/jessicacosta07/cost-reduction-aws/assets/65916297/3c54d3ed-34be-4e6c-9828-55efe6aac7cd)
+
+
 ### AWS Budgets Reports
 With AWS Budgets, you can configure a report to monitor the performance of your existing budgets on a daily, weekly, or monthly cadence and deliver that report to up to 50 email addresses.
 
